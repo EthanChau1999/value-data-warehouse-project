@@ -1,7 +1,5 @@
 # Value Data Warehouse Project
 
-# **🚀** Project Requirements
-
 ---
 
 ## Building the Value Data Warehouse (Data Engineering)
